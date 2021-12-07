@@ -15,7 +15,7 @@ def multi_route(a, b):
     }
 
 
-def mssulti(a,b):
+def multi(a,b):
     if type(a) == str and not a.isdigit():
         return "Invalid Input"
 
